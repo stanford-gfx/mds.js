@@ -1,6 +1,8 @@
 mds.js
 =======
 
+Note: This module assumes that an instance of d3 is exposed to mds.js.
+
 Classic Multidimensional scaling code in javascript
 
 The code is taken from my [blog

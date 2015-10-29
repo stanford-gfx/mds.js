@@ -1,5 +1,4 @@
 
-var d3 = require('d3');
 var numeric = require('numeric');
 
 d3.selection.prototype.moveToFront = function() {
