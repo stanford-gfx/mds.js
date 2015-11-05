@@ -8,7 +8,6 @@ d3.selection.prototype.moveToFront = function() {
 };
 
 var mds = {};
-exports = mds;
 
 (function(mds) {
     "use strict";
@@ -155,3 +154,5 @@ exports = mds;
         }
     };
 }(mds));
+
+module.exports = mds;
